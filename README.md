@@ -1,4 +1,4 @@
-# CS50 – Readability
+# CS50 – Substitution
 
 ## Description
 
